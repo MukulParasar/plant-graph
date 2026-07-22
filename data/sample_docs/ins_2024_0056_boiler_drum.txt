@@ -1,0 +1,30 @@
+DOCUMENT TYPE: Inspection Report
+DOCUMENT ID: INS-2024-0056
+EQUIPMENT: Boiler Drum B-201
+UNIT: Unit 12 - Boiler Feed Water System
+INSPECTION DATE: 18-Jul-2024
+INSPECTOR: Meera Nair (Certified Pressure Vessel Inspector, PESO License PE-3321)
+
+SCOPE:
+Annual internal inspection of Boiler Drum B-201 per OISD-STD-118 and PESO
+statutory requirements for pressure vessels operating above 40 bar. Visual
+and UT thickness survey of drum shell, nozzle welds, and internals.
+
+FINDINGS:
+Shell thickness within acceptable range (nominal 22mm, measured 21.4mm).
+Isolation Valve V-205 seat showed minor erosion, recommended for seat
+lapping at next shutdown. Safety Relief Valve RV-210 tested and popped at
+61.4 bar (within +/-2% of 62 bar set point) - PASS. Level Transmitter
+LT-108 calibration verified against reference gauge - PASS.
+
+No indications of shell cracking or corrosion beyond acceptable limits.
+Internal cyclone separators intact. Feedwater inlet nozzle (connected to
+Economiser Inlet Header EH-201) shows no erosion.
+
+COMPLIANCE STATUS: COMPLIANT - No non-conformances raised.
+NEXT DUE: Jul-2025 (annual cycle per PESO Rule 45 and OISD-STD-118 Section 7)
+
+Cross-referenced documents: PID-2024-0113 (drum P&ID), WO-2024-8871 (P-101A
+bearing works, same unit outage window), SOP-BFW-04.
+
+Reviewed by: Suresh Rao, Plant Manager

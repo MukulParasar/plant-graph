@@ -1,0 +1,33 @@
+DOCUMENT TYPE: Standard Operating Procedure
+DOCUMENT ID: SOP-BFW-04
+TITLE: Boiler Feed Pump Changeover (Duty/Standby Switch)
+UNIT: Unit 12 - Boiler Feed Water System
+REVISION: Rev B
+EFFECTIVE DATE: 01-Jan-2024
+OWNER: Operations Department, Custodian - Suresh Rao, Plant Manager
+
+PURPOSE:
+To provide a safe sequence for switching duty from Boiler Feed Pump
+P-101A to standby Boiler Feed Pump P-101B (or vice versa) without
+disturbing Feed Water Control Valve FCV-102 setpoint or tripping
+Level Transmitter LT-108 interlock on Boiler Drum B-201.
+
+PROCEDURE STEPS:
+1. Confirm FIC-103 flow controller in MANUAL mode before changeover.
+2. Start standby pump (e.g. P-101B) and confirm discharge pressure
+   on PT-101 matches running pump within 2 bar before proceeding.
+3. Gradually open standby pump discharge valve while throttling
+   outgoing pump, monitoring TT-104 for thermal shock.
+4. Confirm LT-108 remains above Low-Low trip point (15%) throughout.
+5. Stop outgoing pump, isolate per lockout-tagout requirements of
+   OISD-STD-118, tag out at Switchgear Panel SG-04.
+6. Log changeover event with Shift Engineer and note any vibration
+   abnormality for entry against Vibration Transmitter VT-101 trend.
+7. Return FIC-103 to AUTO mode once flow stabilizes at 42 T/hr setpoint.
+
+SAFETY NOTES:
+Any deviation observed in RV-210 relief valve behavior or drum level
+during changeover must be reported immediately and cross-referenced
+against Inspection Report INS-2024-0056.
+
+Approved by: Anjali Deshmukh, Chief Engineer

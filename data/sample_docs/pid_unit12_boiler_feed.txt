@@ -1,0 +1,31 @@
+DOCUMENT TYPE: Piping & Instrumentation Diagram - Narrative Extract
+DOCUMENT ID: PID-2024-0113
+UNIT: Unit 12 - Boiler Feed Water System
+REVISION: Rev C
+ISSUED BY: Engineering Design Cell, Prepared by Ramesh Kulkarni
+DATE: 12-Mar-2024
+
+DESCRIPTION:
+Boiler feed water is drawn from Deaerator Tank DA-101 and pumped by Boiler
+Feed Pump P-101A (duty) and P-101B (standby) through Feed Water Control
+Valve FCV-102 into Economiser Inlet Header EH-201. Pressure is monitored by
+transmitter PT-101 and temperature by TT-104, both reporting to DCS Loop
+LP-2201. Flow is regulated using Flow Indicating Controller FIC-103 with a
+set point of 42 T/hr under normal load.
+
+Downstream of the economiser, feed water enters Boiler Drum B-201 via
+Isolation Valve V-205. A safety relief valve RV-210 (set at 62 bar) protects
+the drum shell against overpressure per OISD-STD-118 requirements for
+boiler pressure parts. Level is monitored by Level Transmitter LT-108
+interlocked to trip Feed Pump P-101A on Low-Low level (LT-108 < 15%).
+
+Motor MCC feed to P-101A and P-101B is rated 132kW, 415V, sourced from
+Switchgear Panel SG-04. Equipment tag cross-reference: P-101A, P-101B,
+FCV-102, PT-101, TT-104, FIC-103, EH-201, B-201, V-205, RV-210, LT-108.
+
+Related documents: Maintenance Work Order WO-2024-8871 (P-101A bearing
+replacement), Inspection Report INS-2024-0056 (Boiler Drum B-201 annual
+inspection), Safety Procedure SOP-BFW-04 (Boiler Feed Pump Changeover).
+
+Reviewed by: Anjali Deshmukh, Chief Engineer
+Approved by: Suresh Rao, Plant Manager

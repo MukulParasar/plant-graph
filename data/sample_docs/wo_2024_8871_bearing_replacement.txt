@@ -1,0 +1,33 @@
+DOCUMENT TYPE: Maintenance Work Order
+DOCUMENT ID: WO-2024-8871
+EQUIPMENT: Boiler Feed Pump P-101A
+UNIT: Unit 12 - Boiler Feed Water System
+RAISED DATE: 03-Jun-2024
+COMPLETION DATE: 07-Jun-2024
+RAISED BY: Vikram Singh (Shift Engineer)
+ASSIGNED TO: Mechanical Maintenance Team, Lead - Prakash Iyer
+
+FAULT DESCRIPTION:
+Vibration alarm triggered on P-101A (Vibration Transmitter VT-101,
+reading 9.2 mm/s against alarm limit of 7.1 mm/s). Bearing housing
+temperature elevated to 78C against normal 55C. Suspected drive-end
+bearing degradation, consistent with lubrication contamination noted in
+previous Inspection Report INS-2024-0032 (Feb-2024).
+
+WORK PERFORMED:
+Replaced drive-end and non-drive-end bearings on P-101A. Verified
+alignment against Feed Water Control Valve FCV-102 piping loads. Checked
+Motor MCC (Switchgear Panel SG-04) insulation resistance - within limits.
+Reference Safety Procedure SOP-BFW-04 followed for pump changeover to
+standby unit P-101B during works, per OISD-STD-118 lockout-tagout clause.
+
+ROOT CAUSE (Preliminary):
+Recurrent bearing failures on P-101A logged 3 times in past 18 months
+(WO-2023-4410, WO-2023-6120, WO-2024-8871). Pattern suggests inadequate
+lubrication interval rather than isolated defect - flagged for RCA review.
+
+PARTS USED: SKF 6316 bearing set (2), grease cartridge type EP2.
+DOWNTIME: 6.5 hours (within planned maintenance window).
+
+Signed off by: Prakash Iyer, Mechanical Lead
+Verified by: Anjali Deshmukh, Chief Engineer
